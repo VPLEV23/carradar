@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtPage />
+    <CarCard />
   </div>
 </template>
